@@ -1,5 +1,5 @@
 # Calculator
-A simple Calculator with
+A simple calculator with
 * `+`
 * `-`
 * `*`
