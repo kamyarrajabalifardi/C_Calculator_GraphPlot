@@ -17,3 +17,6 @@ Example
 **Input:** `x*x*x-2*x*x+sin(5*x)-cos(x)`
 
 **Output:**
+<p align="center">
+  <img width = "700" src="https://user-images.githubusercontent.com/46090276/205065618-79fcd2c5-05c7-4dad-afc4-2ca6f8d7ead7.png" alt="sine">
+</p>
